@@ -1,6 +1,6 @@
 The-Grand-Agora
 ===============
-![alt text](image.jpg)  
+![A loosely sketched drawing of a debate arena with people from all eras of history.](the-grand-agora.png)  
    
 OVERVIEW
 --------
