@@ -27,6 +27,6 @@ That's why I think the world should also have it and explore what it can do.
 * It acts out like a story, so I find it works well by saying something like: `Ladies and Gentlemen, I bring you here today to discuss x`
 * Then simply watch it all unfold, and enjoy the debate!
 
-###### Reach Out
+#### Reach Out
 Please reach out to me with how you find it and any ideas you create from it too.   
 I really think this could be a great tool for analysing news stories and for testing new ideas.
