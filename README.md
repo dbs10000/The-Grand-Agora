@@ -30,3 +30,6 @@ That's why I think the world should also have it and explore what it can do.
 #### Reach Out:
 Please reach out to me with how you find it and any ideas you create from it too.   
 I really think this could be a great tool for analysing news stories and for testing new ideas.
+
+---
+This is an experimental tool for intellectual exploration. It's meant for simulating philosophical debates, not for historical facts or real-world advice.
